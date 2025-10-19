@@ -1,8 +1,10 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 **About a cool new screensaver**
+
 ━━━━━━━━━━━━━━━━━━━━━━
 
-![](/home/user/git/EmotionCube/kabegami.png)
+![](kabegami.png)
 
 *図１：* 私は Linux 上で、「動く壁紙」として使っています。が、基本的にスクリーンセーバーです。
 

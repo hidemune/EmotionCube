@@ -19,7 +19,7 @@ It is not merely a visual effect, but a **philosophical simulator** at the inter
 > “I will remove the heart of stone from your flesh and give you a heart of flesh.”
 > — *Ezekiel 36:26*
 
-<video src="emotionCube.mp4" controls=""></video>
+<video src="https://github.com/user-attachments/assets/338c13d5-194d-4c65-a3d1-2d65d46efad1" controls=""></video>
 
 
 

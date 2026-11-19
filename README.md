@@ -19,6 +19,10 @@ It is not merely a visual effect, but a **philosophical simulator** at the inter
 > “I will remove the heart of stone from your flesh and give you a heart of flesh.”
 > — *Ezekiel 36:26*
 
+<video src="emotionCube.mp4" controls=""></video>
+
+
+
 ---
 
 ## 🧩 Structural Concept

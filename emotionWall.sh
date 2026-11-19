@@ -35,7 +35,7 @@ source venv/bin/activate
 
 
 # ScreenSaver - Wall
-./venv/bin/python ./screensave.py --test $width $height &
+python ./screensave.py --test $width $height &
 PID_scr=$!
 
 # 最大5秒間、ウィンドウが出てくるのを待つループ
